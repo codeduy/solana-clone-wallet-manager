@@ -1,0 +1,6 @@
+SOL Balance Check Results
+=====================
+
+Wallet: ECx3zoyWe37wfLr9eERqiaskHiuriiaTngeqwNUg5b92
+SOL Balance: 0 SOL
+
